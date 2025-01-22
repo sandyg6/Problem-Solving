@@ -8,6 +8,7 @@ Practicing LeetCode Problems
 | ------- |
 | [0001-two-sum](https://github.com/sandyg6/Problem-Solving/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sandyg6/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/sandyg6/Problem-Solving/tree/master/0134-gas-station) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,8 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sandyg6/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/sandyg6/Problem-Solving/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
