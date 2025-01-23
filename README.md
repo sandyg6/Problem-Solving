@@ -28,6 +28,7 @@ Practicing LeetCode Problems
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sandyg6/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sandyg6/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -52,6 +53,7 @@ Practicing LeetCode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sandyg6/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandyg6/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sandyg6/Problem-Solving/tree/master/0234-palindrome-linked-list) |
