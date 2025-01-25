@@ -12,7 +12,7 @@ int max(int a, int b){
 int maxArea(int* arr, int n) {
   int left = 0;
   int right = n -1;
-//   if(n == 0 ) printf("0");
+  if(n == 0 ) return 0;
   int area = 0;
   int result = 0;
   while(left<right){
