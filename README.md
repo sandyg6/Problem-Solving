@@ -23,6 +23,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sandyg6/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/sandyg6/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sandyg6/Problem-Solving/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -88,4 +89,16 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandyg6/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
