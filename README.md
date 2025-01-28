@@ -100,6 +100,7 @@ Practicing LeetCode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sandyg6/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Practicing LeetCode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sandyg6/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,10 +119,12 @@ Practicing LeetCode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sandyg6/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/sandyg6/Problem-Solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sandyg6/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
