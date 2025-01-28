@@ -101,6 +101,7 @@ Practicing LeetCode Problems
 | [0145-binary-tree-postorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sandyg6/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/sandyg6/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -123,6 +124,7 @@ Practicing LeetCode Problems
 | [0145-binary-tree-postorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sandyg6/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/sandyg6/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -135,5 +137,6 @@ Practicing LeetCode Problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/sandyg6/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
