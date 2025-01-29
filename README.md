@@ -38,6 +38,7 @@ Practicing LeetCode Problems
 | ------- |
 | [0125-valid-palindrome](https://github.com/sandyg6/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/sandyg6/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -54,6 +55,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sandyg6/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +109,7 @@ Practicing LeetCode Problems
 | [0145-binary-tree-postorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sandyg6/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sandyg6/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
@@ -119,6 +122,7 @@ Practicing LeetCode Problems
 | [0145-binary-tree-postorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sandyg6/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -130,6 +134,7 @@ Practicing LeetCode Problems
 | [0145-binary-tree-postorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sandyg6/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sandyg6/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
@@ -139,6 +144,7 @@ Practicing LeetCode Problems
 | [0102-binary-tree-level-order-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/sandyg6/Problem-Solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sandyg6/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
