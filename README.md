@@ -43,6 +43,7 @@ Practicing LeetCode Problems
 | [0344-reverse-string](https://github.com/sandyg6/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [3636-check-balanced-string](https://github.com/sandyg6/Problem-Solving/tree/master/3636-check-balanced-string) |
 ## Queue
 |  |
 | ------- |
