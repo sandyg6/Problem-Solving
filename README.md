@@ -9,6 +9,7 @@ Practicing LeetCode Problems
 | [0001-two-sum](https://github.com/sandyg6/Problem-Solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sandyg6/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sandyg6/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/sandyg6/Problem-Solving/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandyg6/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sandyg6/Problem-Solving/tree/master/0283-move-zeroes) |
@@ -108,6 +109,7 @@ Practicing LeetCode Problems
 | [0094-binary-tree-inorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sandyg6/Problem-Solving/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
@@ -137,6 +139,7 @@ Practicing LeetCode Problems
 | [0094-binary-tree-inorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sandyg6/Problem-Solving/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
@@ -159,10 +162,15 @@ Practicing LeetCode Problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sandyg6/Problem-Solving/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/sandyg6/Problem-Solving/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
