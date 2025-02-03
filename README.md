@@ -8,6 +8,7 @@ Practicing LeetCode Problems
 | ------- |
 | [0001-two-sum](https://github.com/sandyg6/Problem-Solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sandyg6/Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/sandyg6/Problem-Solving/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sandyg6/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/sandyg6/Problem-Solving/tree/master/0134-gas-station) |
@@ -170,6 +171,7 @@ Practicing LeetCode Problems
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sandyg6/Problem-Solving/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/sandyg6/Problem-Solving/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
@@ -183,4 +185,8 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sandyg6/Problem-Solving/tree/master/0207-course-schedule) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sandyg6/Problem-Solving/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
