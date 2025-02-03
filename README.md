@@ -14,6 +14,7 @@ Practicing LeetCode Problems
 | [0134-gas-station](https://github.com/sandyg6/Problem-Solving/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandyg6/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sandyg6/Problem-Solving/tree/master/0283-move-zeroes) |
+| [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,4 +194,8 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sandyg6/Problem-Solving/tree/master/0048-rotate-image) |
+## Simulation
+|  |
+| ------- |
+| [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
