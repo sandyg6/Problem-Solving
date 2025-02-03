@@ -130,6 +130,7 @@ Practicing LeetCode Problems
 | [0144-binary-tree-preorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/sandyg6/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/sandyg6/Problem-Solving/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -157,6 +158,7 @@ Practicing LeetCode Problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sandyg6/Problem-Solving/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sandyg6/Problem-Solving/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/sandyg6/Problem-Solving/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
@@ -173,4 +175,12 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sandyg6/Problem-Solving/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sandyg6/Problem-Solving/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
