@@ -137,6 +137,7 @@ Practicing LeetCode Problems
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/sandyg6/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -165,6 +166,7 @@ Practicing LeetCode Problems
 | [0210-course-schedule-ii](https://github.com/sandyg6/Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/sandyg6/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Practicing LeetCode Problems
 | ------- |
 | [0207-course-schedule](https://github.com/sandyg6/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sandyg6/Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/sandyg6/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
 | ------- |
@@ -198,4 +201,8 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/sandyg6/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
