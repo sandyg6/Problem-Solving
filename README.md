@@ -8,6 +8,7 @@ Practicing LeetCode Problems
 | ------- |
 | [0001-two-sum](https://github.com/sandyg6/Problem-Solving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sandyg6/Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/sandyg6/Problem-Solving/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/sandyg6/Problem-Solving/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sandyg6/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -71,6 +72,7 @@ Practicing LeetCode Problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandyg6/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sandyg6/Problem-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/sandyg6/Problem-Solving/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/sandyg6/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sandyg6/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sandyg6/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
