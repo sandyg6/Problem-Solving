@@ -16,6 +16,7 @@ Practicing LeetCode Problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandyg6/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/sandyg6/Problem-Solving/tree/master/0283-move-zeroes) |
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
+| [2058-concatenation-of-array](https://github.com/sandyg6/Problem-Solving/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +204,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
+| [2058-concatenation-of-array](https://github.com/sandyg6/Problem-Solving/tree/master/2058-concatenation-of-array) |
 ## Backtracking
 |  |
 | ------- |
