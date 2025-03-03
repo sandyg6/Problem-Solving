@@ -183,6 +183,7 @@ Practicing LeetCode Problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sandyg6/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sandyg6/Problem-Solving/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/sandyg6/Problem-Solving/tree/master/0202-happy-number) |
 ## Divide and Conquer
