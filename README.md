@@ -11,6 +11,7 @@ Practicing LeetCode Problems
 | [0011-container-with-most-water](https://github.com/sandyg6/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/sandyg6/Problem-Solving/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/sandyg6/Problem-Solving/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sandyg6/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sandyg6/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/sandyg6/Problem-Solving/tree/master/0134-gas-station) |
@@ -24,6 +25,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sandyg6/Problem-Solving/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sandyg6/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sandyg6/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sandyg6/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandyg6/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -47,6 +49,7 @@ Practicing LeetCode Problems
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sandyg6/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sandyg6/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -226,5 +229,6 @@ Practicing LeetCode Problems
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sandyg6/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
