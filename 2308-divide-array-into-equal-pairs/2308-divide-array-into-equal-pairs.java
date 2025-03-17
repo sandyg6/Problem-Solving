@@ -6,7 +6,7 @@ class Solution {
             freq[num]++;
         }
         for(int i = 0; i < 501; i++){
-            if(freq[i] % 2 == 1 && freq[i] != 0){
+            if(freq[i] % 2 == 1){
                 return false;
             }
         }
