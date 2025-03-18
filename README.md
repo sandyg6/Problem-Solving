@@ -22,6 +22,7 @@ Practicing LeetCode Problems
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/sandyg6/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandyg6/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/2478-longest-nice-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,9 +231,14 @@ Practicing LeetCode Problems
 | ------- |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandyg6/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/2478-longest-nice-subarray) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sandyg6/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
