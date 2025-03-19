@@ -23,6 +23,7 @@ Practicing LeetCode Problems
 | [2058-concatenation-of-array](https://github.com/sandyg6/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandyg6/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sandyg6/Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Practicing LeetCode Problems
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sandyg6/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sandyg6/Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
 | ------- |
@@ -232,6 +234,7 @@ Practicing LeetCode Problems
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandyg6/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sandyg6/Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
@@ -241,4 +244,9 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/2478-longest-nice-subarray) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sandyg6/Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sandyg6/Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
