@@ -249,4 +249,8 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sandyg6/Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sandyg6/Problem-Solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
