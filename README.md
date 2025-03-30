@@ -33,6 +33,7 @@ Practicing LeetCode Problems
 | [0142-linked-list-cycle-ii](https://github.com/sandyg6/Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandyg6/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/sandyg6/Problem-Solving/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/sandyg6/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/sandyg6/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
@@ -56,6 +57,7 @@ Practicing LeetCode Problems
 | [0049-group-anagrams](https://github.com/sandyg6/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sandyg6/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/sandyg6/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/sandyg6/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -239,6 +241,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sandyg6/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/sandyg6/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
