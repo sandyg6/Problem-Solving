@@ -13,6 +13,7 @@ Practicing LeetCode Problems
 | [0027-remove-element](https://github.com/sandyg6/Problem-Solving/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/sandyg6/Problem-Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sandyg6/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/sandyg6/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sandyg6/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/sandyg6/Problem-Solving/tree/master/0134-gas-station) |
@@ -231,9 +232,11 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sandyg6/Problem-Solving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sandyg6/Problem-Solving/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sandyg6/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/sandyg6/Problem-Solving/tree/master/2058-concatenation-of-array) |
 ## Backtracking
