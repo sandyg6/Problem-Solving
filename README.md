@@ -17,6 +17,7 @@ Practicing LeetCode Problems
 | [0084-largest-rectangle-in-histogram](https://github.com/sandyg6/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/sandyg6/Problem-Solving/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/sandyg6/Problem-Solving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandyg6/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sandyg6/Problem-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sandyg6/Problem-Solving/tree/master/0268-missing-number) |
@@ -247,6 +248,7 @@ Practicing LeetCode Problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sandyg6/Problem-Solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sandyg6/Problem-Solving/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandyg6/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
