@@ -21,6 +21,7 @@ Practicing LeetCode Problems
 | [0189-rotate-array](https://github.com/sandyg6/Problem-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sandyg6/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sandyg6/Problem-Solving/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/sandyg6/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/sandyg6/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
