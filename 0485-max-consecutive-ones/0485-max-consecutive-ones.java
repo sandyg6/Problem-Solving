@@ -3,12 +3,9 @@ class Solution {
         int count = 0;
         int max = 0;
         for(int num: nums){
-            if(num == 1){
-                count++;
-                max = Math.max(max, count);
-            }
-            else
-                count = 0;
+            if(num == 1) count++;
+            else count = 0;
+            max = count > max ? count : max;
         }
         return max;
     }
