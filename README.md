@@ -29,6 +29,7 @@ Practicing LeetCode Problems
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sandyg6/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/sandyg6/Problem-Solving/tree/master/2058-concatenation-of-array) |
+| [2102-find-the-middle-index-in-array](https://github.com/sandyg6/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandyg6/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sandyg6/Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -271,6 +272,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sandyg6/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/sandyg6/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sandyg6/Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Database
 |  |
