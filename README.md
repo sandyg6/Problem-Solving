@@ -13,6 +13,7 @@ Practicing LeetCode Problems
 | [0027-remove-element](https://github.com/sandyg6/Problem-Solving/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/sandyg6/Problem-Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sandyg6/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sandyg6/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sandyg6/Problem-Solving/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sandyg6/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
@@ -227,6 +228,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sandyg6/Problem-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/sandyg6/Problem-Solving/tree/master/0169-majority-element) |
 ## Graph
@@ -297,4 +299,8 @@ Practicing LeetCode Problems
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sandyg6/Problem-Solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/sandyg6/Problem-Solving/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sandyg6/Problem-Solving/tree/master/1908-recyclable-and-low-fat-products) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
