@@ -24,6 +24,7 @@ Practicing LeetCode Problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandyg6/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/sandyg6/Problem-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sandyg6/Problem-Solving/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/sandyg6/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/sandyg6/Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sandyg6/Problem-Solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sandyg6/Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -48,6 +49,7 @@ Practicing LeetCode Problems
 | [0160-intersection-of-two-linked-lists](https://github.com/sandyg6/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sandyg6/Problem-Solving/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sandyg6/Problem-Solving/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/sandyg6/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sandyg6/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sandyg6/Problem-Solving/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
@@ -89,6 +91,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sandyg6/Problem-Solving/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sandyg6/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandyg6/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 ## Design
@@ -275,6 +278,7 @@ Practicing LeetCode Problems
 | [0049-group-anagrams](https://github.com/sandyg6/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sandyg6/Problem-Solving/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sandyg6/Problem-Solving/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/sandyg6/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sandyg6/Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sandyg6/Problem-Solving/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
