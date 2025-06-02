@@ -17,6 +17,7 @@ Practicing LeetCode Problems
 | [0053-maximum-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sandyg6/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/sandyg6/Problem-Solving/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/sandyg6/Problem-Solving/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sandyg6/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/sandyg6/Problem-Solving/tree/master/0134-gas-station) |
@@ -75,6 +76,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sandyg6/Problem-Solving/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/sandyg6/Problem-Solving/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sandyg6/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/sandyg6/Problem-Solving/tree/master/0242-valid-anagram) |
@@ -174,6 +176,7 @@ Practicing LeetCode Problems
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sandyg6/Problem-Solving/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0110-balanced-binary-tree) |
@@ -254,6 +257,7 @@ Practicing LeetCode Problems
 | ------- |
 | [0048-rotate-image](https://github.com/sandyg6/Problem-Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sandyg6/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/sandyg6/Problem-Solving/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -264,6 +268,7 @@ Practicing LeetCode Problems
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sandyg6/Problem-Solving/tree/master/0079-word-search) |
 | [0813-all-paths-from-source-to-target](https://github.com/sandyg6/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
