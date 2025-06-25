@@ -68,6 +68,7 @@ Practicing LeetCode Problems
 | [0145-binary-tree-postorder-traversal](https://github.com/sandyg6/Problem-Solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/sandyg6/Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/sandyg6/Problem-Solving/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/sandyg6/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Practicing LeetCode Problems
 | [0345-reverse-vowels-of-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/sandyg6/Problem-Solving/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/sandyg6/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sandyg6/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3636-check-balanced-string](https://github.com/sandyg6/Problem-Solving/tree/master/3636-check-balanced-string) |
 ## Queue
