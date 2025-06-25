@@ -84,6 +84,7 @@ Practicing LeetCode Problems
 | [0344-reverse-string](https://github.com/sandyg6/Problem-Solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [0812-rotate-string](https://github.com/sandyg6/Problem-Solving/tree/master/0812-rotate-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sandyg6/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3636-check-balanced-string](https://github.com/sandyg6/Problem-Solving/tree/master/3636-check-balanced-string) |
 ## Queue
@@ -319,4 +320,8 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/0053-maximum-subarray) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/sandyg6/Problem-Solving/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
