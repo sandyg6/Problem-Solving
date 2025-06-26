@@ -34,6 +34,7 @@ Practicing LeetCode Problems
 | [0724-find-pivot-index](https://github.com/sandyg6/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/sandyg6/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
+| [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sandyg6/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2058-concatenation-of-array](https://github.com/sandyg6/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/sandyg6/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
@@ -58,6 +59,7 @@ Practicing LeetCode Problems
 | [0560-subarray-sum-equals-k](https://github.com/sandyg6/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1319-unique-number-of-occurrences](https://github.com/sandyg6/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
+| [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandyg6/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 ## Stack
 |  |
@@ -87,6 +89,7 @@ Practicing LeetCode Problems
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/sandyg6/Problem-Solving/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sandyg6/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
+| [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sandyg6/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3636-check-balanced-string](https://github.com/sandyg6/Problem-Solving/tree/master/3636-check-balanced-string) |
 ## Queue
