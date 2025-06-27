@@ -89,6 +89,7 @@ Practicing LeetCode Problems
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/sandyg6/Problem-Solving/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sandyg6/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sandyg6/Problem-Solving/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sandyg6/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3636-check-balanced-string](https://github.com/sandyg6/Problem-Solving/tree/master/3636-check-balanced-string) |
@@ -270,6 +271,7 @@ Practicing LeetCode Problems
 | ------- |
 | [0054-spiral-matrix](https://github.com/sandyg6/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sandyg6/Problem-Solving/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2058-concatenation-of-array](https://github.com/sandyg6/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sandyg6/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sandyg6/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -284,6 +286,7 @@ Practicing LeetCode Problems
 | [0136-single-number](https://github.com/sandyg6/Problem-Solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sandyg6/Problem-Solving/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sandyg6/Problem-Solving/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandyg6/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sandyg6/Problem-Solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
