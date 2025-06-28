@@ -38,6 +38,7 @@ Practicing LeetCode Problems
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sandyg6/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/sandyg6/Problem-Solving/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2058-concatenation-of-array](https://github.com/sandyg6/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/sandyg6/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sandyg6/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
