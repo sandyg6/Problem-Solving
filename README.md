@@ -33,6 +33,7 @@ Practicing LeetCode Problems
 | [0560-subarray-sum-equals-k](https://github.com/sandyg6/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/sandyg6/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [1044-find-common-characters](https://github.com/sandyg6/Problem-Solving/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/sandyg6/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
@@ -59,6 +60,7 @@ Practicing LeetCode Problems
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sandyg6/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
+| [1044-find-common-characters](https://github.com/sandyg6/Problem-Solving/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/sandyg6/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandyg6/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
@@ -89,6 +91,7 @@ Practicing LeetCode Problems
 | [0345-reverse-vowels-of-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/sandyg6/Problem-Solving/tree/master/0812-rotate-string) |
+| [1044-find-common-characters](https://github.com/sandyg6/Problem-Solving/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/sandyg6/Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sandyg6/Problem-Solving/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
