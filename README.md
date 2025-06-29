@@ -34,6 +34,7 @@ Practicing LeetCode Problems
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/sandyg6/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [1044-find-common-characters](https://github.com/sandyg6/Problem-Solving/tree/master/1044-find-common-characters) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/sandyg6/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1319-unique-number-of-occurrences](https://github.com/sandyg6/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
@@ -121,6 +122,7 @@ Practicing LeetCode Problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandyg6/Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/sandyg6/Problem-Solving/tree/master/0134-gas-station) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/sandyg6/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 ## Two Pointers
 |  |
 | ------- |
