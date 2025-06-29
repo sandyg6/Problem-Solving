@@ -40,6 +40,7 @@ Practicing LeetCode Problems
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sandyg6/Problem-Solving/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sandyg6/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/sandyg6/Problem-Solving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/sandyg6/Problem-Solving/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2058-concatenation-of-array](https://github.com/sandyg6/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/sandyg6/Problem-Solving/tree/master/2102-find-the-middle-index-in-array) |
