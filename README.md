@@ -35,6 +35,7 @@ Practicing LeetCode Problems
 | [0724-find-pivot-index](https://github.com/sandyg6/Problem-Solving/tree/master/0724-find-pivot-index) |
 | [1044-find-common-characters](https://github.com/sandyg6/Problem-Solving/tree/master/1044-find-common-characters) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sandyg6/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sandyg6/Problem-Solving/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1319-unique-number-of-occurrences](https://github.com/sandyg6/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sandyg6/Problem-Solving/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -65,6 +66,7 @@ Practicing LeetCode Problems
 | [0560-subarray-sum-equals-k](https://github.com/sandyg6/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
 | [1044-find-common-characters](https://github.com/sandyg6/Problem-Solving/tree/master/1044-find-common-characters) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sandyg6/Problem-Solving/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1319-unique-number-of-occurrences](https://github.com/sandyg6/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandyg6/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
@@ -113,6 +115,7 @@ Practicing LeetCode Problems
 | [0169-majority-element](https://github.com/sandyg6/Problem-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sandyg6/Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/sandyg6/Problem-Solving/tree/master/0387-first-unique-character-in-a-string) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sandyg6/Problem-Solving/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sandyg6/Problem-Solving/tree/master/2308-divide-array-into-equal-pairs) |
 ## Design
 |  |
