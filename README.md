@@ -332,6 +332,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sandyg6/Problem-Solving/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/sandyg6/Problem-Solving/tree/master/0176-second-highest-salary) |
 | [0197-rising-temperature](https://github.com/sandyg6/Problem-Solving/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/sandyg6/Problem-Solving/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/sandyg6/Problem-Solving/tree/master/0595-big-countries) |
