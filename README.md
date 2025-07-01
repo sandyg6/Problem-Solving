@@ -102,6 +102,7 @@ Practicing LeetCode Problems
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sandyg6/Problem-Solving/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/sandyg6/Problem-Solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [3617-find-the-original-typed-string-i](https://github.com/sandyg6/Problem-Solving/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/sandyg6/Problem-Solving/tree/master/3636-check-balanced-string) |
 ## Queue
 |  |
