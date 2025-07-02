@@ -256,6 +256,7 @@ Practicing LeetCode Problems
 | [0189-rotate-array](https://github.com/sandyg6/Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sandyg6/Problem-Solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sandyg6/Problem-Solving/tree/master/0268-missing-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/sandyg6/Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -293,6 +294,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sandyg6/Problem-Solving/tree/master/0079-word-search) |
+| [0357-count-numbers-with-unique-digits](https://github.com/sandyg6/Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 | [0813-all-paths-from-source-to-target](https://github.com/sandyg6/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
@@ -349,6 +351,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0357-count-numbers-with-unique-digits](https://github.com/sandyg6/Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 ## String Matching
 |  |
 | ------- |
