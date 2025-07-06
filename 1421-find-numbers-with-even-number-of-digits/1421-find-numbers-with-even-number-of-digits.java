@@ -1,6 +1,6 @@
 class Solution {
     public boolean isEvenCount(int num){
-        int n = Integer.toString(num).length();
+        int n = (int)Math.log10(num) + 1;
         return n % 2 == 0 ? true : false;
     }
     public int findNumbers(int[] nums) {
