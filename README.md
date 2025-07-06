@@ -38,6 +38,7 @@ Practicing LeetCode Problems
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sandyg6/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sandyg6/Problem-Solving/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1319-unique-number-of-occurrences](https://github.com/sandyg6/Problem-Solving/tree/master/1319-unique-number-of-occurrences) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sandyg6/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sandyg6/Problem-Solving/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
@@ -262,6 +263,7 @@ Practicing LeetCode Problems
 | [0202-happy-number](https://github.com/sandyg6/Problem-Solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sandyg6/Problem-Solving/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sandyg6/Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sandyg6/Problem-Solving/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
