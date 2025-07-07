@@ -353,6 +353,7 @@ Practicing LeetCode Problems
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/sandyg6/Problem-Solving/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/sandyg6/Problem-Solving/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/sandyg6/Problem-Solving/tree/master/1153-product-sales-analysis-i) |
+| [1179-game-play-analysis-i](https://github.com/sandyg6/Problem-Solving/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/sandyg6/Problem-Solving/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sandyg6/Problem-Solving/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sandyg6/Problem-Solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
