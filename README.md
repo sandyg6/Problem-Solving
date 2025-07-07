@@ -42,6 +42,7 @@ Practicing LeetCode Problems
 | [1505-create-target-array-in-the-given-order](https://github.com/sandyg6/Problem-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sandyg6/Problem-Solving/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1547-destination-city](https://github.com/sandyg6/Problem-Solving/tree/master/1547-destination-city) |
+| [1791-richest-customer-wealth](https://github.com/sandyg6/Problem-Solving/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sandyg6/Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sandyg6/Problem-Solving/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/sandyg6/Problem-Solving/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -289,6 +290,7 @@ Practicing LeetCode Problems
 | [0054-spiral-matrix](https://github.com/sandyg6/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sandyg6/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/sandyg6/Problem-Solving/tree/master/0079-word-search) |
+| [1791-richest-customer-wealth](https://github.com/sandyg6/Problem-Solving/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
