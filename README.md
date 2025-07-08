@@ -35,6 +35,7 @@ Practicing LeetCode Problems
 | [0560-subarray-sum-equals-k](https://github.com/sandyg6/Problem-Solving/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/sandyg6/Problem-Solving/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/sandyg6/Problem-Solving/tree/master/0724-find-pivot-index) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/sandyg6/Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1044-find-common-characters](https://github.com/sandyg6/Problem-Solving/tree/master/1044-find-common-characters) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/sandyg6/Problem-Solving/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sandyg6/Problem-Solving/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -186,6 +187,7 @@ Practicing LeetCode Problems
 | [0074-search-a-2d-matrix](https://github.com/sandyg6/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandyg6/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sandyg6/Problem-Solving/tree/master/0268-missing-number) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/sandyg6/Problem-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Tree
 |  |
 | ------- |
