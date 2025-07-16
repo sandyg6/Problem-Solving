@@ -18,6 +18,7 @@ Practicing LeetCode Problems
 | [0049-group-anagrams](https://github.com/sandyg6/Problem-Solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sandyg6/Problem-Solving/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/sandyg6/Problem-Solving/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sandyg6/Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sandyg6/Problem-Solving/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/sandyg6/Problem-Solving/tree/master/0079-word-search) |
@@ -268,6 +269,7 @@ Practicing LeetCode Problems
 | [0009-palindrome-number](https://github.com/sandyg6/Problem-Solving/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/sandyg6/Problem-Solving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sandyg6/Problem-Solving/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/sandyg6/Problem-Solving/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sandyg6/Problem-Solving/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sandyg6/Problem-Solving/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sandyg6/Problem-Solving/tree/master/0268-missing-number) |
