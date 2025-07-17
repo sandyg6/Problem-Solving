@@ -24,6 +24,7 @@ Practicing LeetCode Problems
 | [0079-word-search](https://github.com/sandyg6/Problem-Solving/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sandyg6/Problem-Solving/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandyg6/Problem-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/sandyg6/Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/sandyg6/Problem-Solving/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/sandyg6/Problem-Solving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandyg6/Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -376,6 +377,7 @@ Practicing LeetCode Problems
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandyg6/Problem-Solving/tree/master/0053-maximum-subarray) |
+| [0119-pascals-triangle-ii](https://github.com/sandyg6/Problem-Solving/tree/master/0119-pascals-triangle-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/sandyg6/Problem-Solving/tree/master/0357-count-numbers-with-unique-digits) |
 ## String Matching
 |  |
