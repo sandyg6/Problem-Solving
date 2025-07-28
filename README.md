@@ -378,6 +378,7 @@ Practicing LeetCode Problems
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sandyg6/Problem-Solving/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sandyg6/Problem-Solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/sandyg6/Problem-Solving/tree/master/1827-invalid-tweets) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/sandyg6/Problem-Solving/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sandyg6/Problem-Solving/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/sandyg6/Problem-Solving/tree/master/1942-primary-department-for-each-employee) |
 ## Dynamic Programming
