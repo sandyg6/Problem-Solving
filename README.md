@@ -379,6 +379,7 @@ Practicing LeetCode Problems
 | [1338-queries-quality-and-percentage](https://github.com/sandyg6/Problem-Solving/tree/master/1338-queries-quality-and-percentage) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sandyg6/Problem-Solving/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sandyg6/Problem-Solving/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1811-fix-names-in-a-table](https://github.com/sandyg6/Problem-Solving/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/sandyg6/Problem-Solving/tree/master/1827-invalid-tweets) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/sandyg6/Problem-Solving/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sandyg6/Problem-Solving/tree/master/1908-recyclable-and-low-fat-products) |
